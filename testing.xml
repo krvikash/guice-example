@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Guice-suite" verbose="1" >
+    <test name="GuiceTest" >
+        <classes>
+            <class name="io.starburst.test.example.guice.DriverTest" />
+        </classes>
+    </test>
+</suite>
