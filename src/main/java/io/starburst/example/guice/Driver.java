@@ -10,6 +10,9 @@ import io.starburst.example.guice.module.HiveModule;
 
 import java.util.Arrays;
 
+/**
+ *  <a href="https://trino.io">...</a>
+ */
 public class Driver
 {
     enum ConnectorType {
